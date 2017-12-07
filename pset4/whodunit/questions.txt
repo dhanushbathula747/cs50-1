@@ -1,0 +1,12 @@
+1.  stdint.h isa header filewhich allow programmers to type def integers of desired width.
+2.  it is needed because here we have to recognize the hex out put using the sie they bear ***
+3.  1 , 4, 4, 2.
+4.  
+5.  TODO
+6.  TODO
+7.  TODO
+8.  TODO
+9.  TODO
+10. TODO
+11. TODO
+12. TODO
