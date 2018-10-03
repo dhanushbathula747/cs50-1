@@ -45,6 +45,7 @@ int main(int argc, char* argv[])
     }
 
     // open output file
+    //open the output file to have a view of the code.
     FILE* outptr = fopen(outfile, "w");
     if (outptr == NULL)
     {
